@@ -7,7 +7,7 @@ preview: https://expo.io/@clewertonx1/ChristmasLights
 
 ### Final Result:
 
-<img src="" >
+<img src="https://user-images.githubusercontent.com/48888681/79888485-20cf0e00-83d3-11ea-922a-fb0b649daad8.gif" width="270" height="585" >
 
 
 ### User Stories
